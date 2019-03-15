@@ -10,3 +10,4 @@ public class Batch {
 		return new double[]{0};
 	}
 }
+//
